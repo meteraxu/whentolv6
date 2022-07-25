@@ -5,5 +5,5 @@
 This development project will use the concise Python language to write out when Bilibili can be upgraded to Lv6, and you are welcome to raise your questions.
 
 ## contact details
-E-mail: meterax@outlook.com
+E-mail: meterax@outlook.com<br>
 QQ:3288974043
